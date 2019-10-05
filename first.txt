@@ -1,2 +1,12 @@
+<<<<<<< HEAD
  no3 no2 ， i modify新增测试 新增测试 other modify
+=======
+<<<<<<< HEAD
+i modify新增测试 新增测试 other modify
+other second modify
+
+=======
+no2 ， i modify新增测试 新增测试 other modify
+>>>>>>> 6a04dbcbe3523d0ab45fdbee3aca01189f4081a8
+>>>>>>> ea36a4380ee5e17767bde96289c1497e62879147
 
